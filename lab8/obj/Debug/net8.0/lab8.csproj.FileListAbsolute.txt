@@ -1,0 +1,14 @@
+D:\c# unity\lab mảng\lab8\bin\Debug\net8.0\lab8.exe
+D:\c# unity\lab mảng\lab8\bin\Debug\net8.0\lab8.deps.json
+D:\c# unity\lab mảng\lab8\bin\Debug\net8.0\lab8.runtimeconfig.json
+D:\c# unity\lab mảng\lab8\bin\Debug\net8.0\lab8.dll
+D:\c# unity\lab mảng\lab8\bin\Debug\net8.0\lab8.pdb
+D:\c# unity\lab mảng\lab8\obj\Debug\net8.0\lab8.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# unity\lab mảng\lab8\obj\Debug\net8.0\lab8.AssemblyInfoInputs.cache
+D:\c# unity\lab mảng\lab8\obj\Debug\net8.0\lab8.AssemblyInfo.cs
+D:\c# unity\lab mảng\lab8\obj\Debug\net8.0\lab8.csproj.CoreCompileInputs.cache
+D:\c# unity\lab mảng\lab8\obj\Debug\net8.0\lab8.dll
+D:\c# unity\lab mảng\lab8\obj\Debug\net8.0\refint\lab8.dll
+D:\c# unity\lab mảng\lab8\obj\Debug\net8.0\lab8.pdb
+D:\c# unity\lab mảng\lab8\obj\Debug\net8.0\lab8.genruntimeconfig.cache
+D:\c# unity\lab mảng\lab8\obj\Debug\net8.0\ref\lab8.dll
