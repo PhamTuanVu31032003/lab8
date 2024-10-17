@@ -32,7 +32,7 @@
          foreach (var item in firstlists){
             Console.WriteLine(item);
          }*/
-         thuong ngu
+         thuong ngu vkl
 
     }
 }

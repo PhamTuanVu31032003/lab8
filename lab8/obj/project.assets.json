@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\c# unity\\lab mảng\\lab8\\lab8.csproj",
+      "projectUniqueName": "C:\\github\\lab8\\lab8\\lab8.csproj",
       "projectName": "lab8",
-      "projectPath": "D:\\c# unity\\lab mảng\\lab8\\lab8.csproj",
+      "projectPath": "C:\\github\\lab8\\lab8\\lab8.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\c# unity\\lab mảng\\lab8\\obj\\",
+      "outputPath": "C:\\github\\lab8\\lab8\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
